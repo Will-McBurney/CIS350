@@ -1,0 +1,14 @@
+a = 5;
+print(a);
+a = a + 1;
+print (a);
+a += 1;
+print (a);
+b = 3;
+print(b);
+print(a);
+a = 3.14;
+print(a);
+b = 3.0;
+print(b);
+print(int(b));
